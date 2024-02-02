@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+h3{
+    color:red;
+    font-family: impact, sans-serif;
+}
+h1{
+    color: red;
+    font-family: impact, sans-serif;
+}
+h2{
+    margin: 0 auto;
+    width: 500px;
+}
+p{
+    color: black;
+    width: 500px;
+    margin: 0 auto;
+    font-size: 15px;
+}
